@@ -1,0 +1,13 @@
+.far, .fas {
+  cursor: pointer;
+}
+
+/* coluna do preço */
+.table td:nth-child(4) {
+  text-align: right;
+}
+
+/* coluna dos ícones */
+.table td:nth-child(5) {
+  text-align: center;
+}
